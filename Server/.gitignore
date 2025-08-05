@@ -1,0 +1,5 @@
+# Node dependencies - very large and can be reinstalled
+node_modules
+
+# Environment variables - contains secret keys!
+.env
